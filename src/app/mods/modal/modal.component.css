@@ -1,0 +1,5 @@
+:host .ui.modal > .close {
+  top: 0;
+  right: 0;
+  color: #222222;
+}
