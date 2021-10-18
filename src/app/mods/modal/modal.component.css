@@ -3,3 +3,15 @@
   right: 0;
   color: #222222;
 }
+
+.actions:empty {
+  display: none;
+}
+
+.actions-default {
+  display: none;
+}
+
+.actions:empty + .actions-default {
+  display: block;
+}
